@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_grey_24x24"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_add"
+            android:icon="@drawable/add_box_grey_24x24"
+            android:title="Add a report" />
+        <item
+            android:id="@+id/nav_view"
+            android:icon="@drawable/circled_list"
+            android:title="View reports" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_map_black_24dp"
+            android:title="View Map" />
+    </group>
+
+    <item android:title="Additional">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_error_outline_black_24dp"
+                android:title="About Application" />
+        </menu>
+    </item>
+
+</menu>

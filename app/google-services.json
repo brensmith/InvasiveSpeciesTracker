@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "377796523063",
+    "firebase_url": "https://invasive-species-tracker-f37f6.firebaseio.com",
+    "project_id": "invasive-species-tracker-f37f6",
+    "storage_bucket": "invasive-species-tracker-f37f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377796523063:android:47b4b455104a0002",
+        "android_client_info": {
+          "package_name": "wit.ie.invasivespeciestracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377796523063-hff9dlvttkminlkafm55egagmpc3mv37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wit.ie.invasivespeciestracker",
+            "certificate_hash": "5076B7BE9C1ED6BEB59F4A52F488F236E23A73A9"
+          }
+        },
+        {
+          "client_id": "377796523063-odgfm067tghr4vahv97o2uet1uect31f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMj4Tqml29lIt4cSySQHTYOnDqY4VpY2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377796523063-odgfm067tghr4vahv97o2uet1uect31f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
